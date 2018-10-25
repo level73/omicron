@@ -1,0 +1,12 @@
+{
+  "name": "omicron",
+  "description": "Physics-like animations for pretty particles",
+  "authors": [
+    "Level73"
+  ],
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^4.1.3",
+    "bootstrap-select": "^1.13.3"
+  }
+}

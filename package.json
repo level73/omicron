@@ -1,0 +1,32 @@
+{
+  "name": "omicron",
+  "version": "1.0.0",
+  "description": "Simple webb application application framework",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/level73/omicron.git"
+  },
+  "keywords": [
+    "web",
+    "application",
+    "php",
+    "framework"
+  ],
+  "author": "Level73",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/level73/omicron/issues"
+  },
+  "homepage": "https://github.com/level73/omicron#readme",
+  "devDependencies": {
+    "grunt": "^1.0.3",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-uglify": "^4.0.0",
+    "grunt-contrib-watch": "^1.1.0"
+  }
+}

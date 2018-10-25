@@ -1,0 +1,4 @@
+node_modules
+config/local.php
+public/src/components
+public/info.php
